@@ -1,0 +1,1190 @@
+{
+  "reentrancy": [
+    {
+      "date": "20250222",
+      "name": "Unverified_35bc",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20241227",
+      "name": "Bizness",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20241210",
+      "name": "CloberDEX",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20241111",
+      "name": "DeltaPrime",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20240714",
+      "name": "Minterest",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20240702",
+      "name": "MRP",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20240514",
+      "name": "PredyFinance",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20240412",
+      "name": "SumerMoney",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20240228",
+      "name": "SMOOFSStaking",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20240129",
+      "name": "PeapodsFinance",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20240128",
+      "name": "BarleyFinance",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20240125",
+      "name": "NBLGAME",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20231216",
+      "name": "NFTTrader",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20231007",
+      "name": "StarsArena",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20230926",
+      "name": "XSDWETHpool",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20230916",
+      "name": "uniclyNFT",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20230809",
+      "name": "EarningFram",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20230711",
+      "name": "Libertify",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20230710",
+      "name": "ArcadiaFi",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20230411",
+      "name": "Paribus",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20230203",
+      "name": "- Orion Protocol",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20230116",
+      "name": "- MidasCapital",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20221223",
+      "name": "- Defrost",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20221110",
+      "name": "- DFXFinance",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20221026",
+      "name": "N00d Token",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20221024",
+      "name": "Market",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20221001",
+      "name": "Thunder Brawl",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20220710",
+      "name": "Omni NFT",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20220327",
+      "name": "Revest Finance",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20220305",
+      "name": "Bacon Protocol",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20211221",
+      "name": "Visor Finance",
+      "type": "reentrancy"
+    },
+    {
+      "date": "20181007",
+      "name": "SpankChain",
+      "type": "reentrancy"
+    }
+  ],
+  "flashloan-attack": [
+    {
+      "date": "20220928",
+      "name": "BXH",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20220908",
+      "name": "NewFreeDAO",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20220616",
+      "name": "InverseFinance",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20220606",
+      "name": "Discover",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20220529",
+      "name": "NOVO Protocol",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20220517",
+      "name": "ApeCoin (APE)",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20220430",
+      "name": "Rari Capital/Fei Protocol",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20220428",
+      "name": "DEUS DAO",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20220424",
+      "name": "Wiener DOGE",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20220412",
+      "name": "ElephantMoney",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20220409",
+      "name": "GYMNetwork",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20220321",
+      "name": "OneRing Finance",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20220313",
+      "name": "Paraluni",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20211218",
+      "name": "Grim Finance",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20210830",
+      "name": "Cream Finance",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20210817",
+      "name": "XSURGE",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20210308",
+      "name": "DODO",
+      "type": "flashloan-attack"
+    },
+    {
+      "date": "20201026",
+      "name": "Harvest Finance",
+      "type": "flashloan-attack"
+    }
+  ],
+  "price-manipulation": [
+    {
+      "date": "20251110",
+      "name": "DRLVaultV3",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20250918",
+      "name": "NGP",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20250816",
+      "name": "d3xai",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20250815",
+      "name": "PDZ",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20250813",
+      "name": "YuliAI",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20250623",
+      "name": "GradientMakerPool",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20250511",
+      "name": "MBUToken",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20250509",
+      "name": "Nalakuvara_LotteryTicket50",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20250426",
+      "name": "Lifeprotocol",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20250320",
+      "name": "BBXToken",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20250307",
+      "name": "SBR Token",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20250208",
+      "name": "Peapods Finance",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20250111",
+      "name": "RoulettePotV2",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20241006",
+      "name": "SASHAToken",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20241002",
+      "name": "LavaLending",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240923",
+      "name": "PestoToken",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240910",
+      "name": "Caterpillar_Coin_CUT",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240905",
+      "name": "HANAToken",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240806",
+      "name": "Novax",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240610",
+      "name": "UwULend",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240610",
+      "name": "UwuLend",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240507",
+      "name": "SATURN",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240422",
+      "name": "Z123",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240325",
+      "name": "ZongZi",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240305",
+      "name": "Woofi",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240213",
+      "name": "MINER",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240205",
+      "name": "BurnsDefi",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20240127",
+      "name": "CitadelFinance",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20231231",
+      "name": "Channels",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20231217",
+      "name": "Bob",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20231211",
+      "name": "GoodCompound",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20231209",
+      "name": "BCT",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20231206",
+      "name": "ElephantStatus",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20231205",
+      "name": "MAMO",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20231130",
+      "name": "EEE",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20231129",
+      "name": "Burntbubba",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20231117",
+      "name": "Token8633_9419",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20231018",
+      "name": "MicDao",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230907",
+      "name": "HCT",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230829",
+      "name": "EAC",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230819",
+      "name": "BTC20",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230814",
+      "name": "ZunamiProtocol",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230801",
+      "name": "NeutraFinance",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230722",
+      "name": "Conic Finance 02",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230611",
+      "name": "SellToken04",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230606",
+      "name": "VINU",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230606",
+      "name": "UN",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230531",
+      "name": "ERC20TokenBank",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230513",
+      "name": "SellToken02",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230503",
+      "name": "NeverFall",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20230202",
+      "name": "- BonqDAO",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20221014",
+      "name": "MEVBOTa47b",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20220816",
+      "name": "Circle",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20220813",
+      "name": "Circle",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20211130",
+      "name": "MonoX Finance",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20211027",
+      "name": "CreamFinance",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20211015",
+      "name": "Indexed Finance",
+      "type": "price-manipulation"
+    },
+    {
+      "date": "20210519",
+      "name": "PancakeBunny",
+      "type": "price-manipulation"
+    }
+  ],
+  "input-validation": [
+    {
+      "date": "20250831",
+      "name": "Hexotic",
+      "type": "input-validation"
+    },
+    {
+      "date": "20241223",
+      "name": "Moonhacker",
+      "type": "input-validation"
+    },
+    {
+      "date": "20240424",
+      "name": "YIEDL",
+      "type": "input-validation"
+    },
+    {
+      "date": "20231129",
+      "name": "AIS",
+      "type": "input-validation"
+    },
+    {
+      "date": "20230731",
+      "name": "GYMNET",
+      "type": "input-validation"
+    },
+    {
+      "date": "20221211",
+      "name": "- MEVbot_0x28d9",
+      "type": "input-validation"
+    },
+    {
+      "date": "20220322",
+      "name": "CompoundTUSDSweepTokenBypass",
+      "type": "input-validation"
+    },
+    {
+      "date": "20210916",
+      "name": "SushiSwap Miso",
+      "type": "input-validation"
+    },
+    {
+      "date": "20201121",
+      "name": "Pickle Finance",
+      "type": "input-validation"
+    }
+  ],
+  "logic-flaw": [
+    {
+      "date": "20251004",
+      "name": "Abracadabra",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250813",
+      "name": "Grizzifi",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250720",
+      "name": "Stepp2p",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250716",
+      "name": "VDS",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250705",
+      "name": "RANT",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250702",
+      "name": "FPC",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250612",
+      "name": "AAVEBoost",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250526",
+      "name": "YDT",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250408",
+      "name": "Laundromat",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250307",
+      "name": "UNI",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250211",
+      "name": "FourMeme",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250114",
+      "name": "IdolsNFT",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250113",
+      "name": "Mosca2",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250112",
+      "name": "Unilend",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250110",
+      "name": "JPulsepot",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250107",
+      "name": "IPC Incorrect burn pairs",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20250106",
+      "name": "Mosca",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20241218",
+      "name": "SlurpyCoin",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20241216",
+      "name": "BTC24H",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20241214",
+      "name": "JHY",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20241210",
+      "name": "LABUBU Token",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20241124",
+      "name": "Proxy_b7e1",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20241117",
+      "name": "MFT",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20241107",
+      "name": "ChiSale",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20241105",
+      "name": "RPP",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20240920",
+      "name": "DOGGO",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20240915",
+      "name": "WXETA",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20240913",
+      "name": "OTSeaStaking",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20240902",
+      "name": "Pythia",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20240606",
+      "name": "SteamSwap",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20240424",
+      "name": "XBridge",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20240419",
+      "name": "HedgeyFinance",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20240416",
+      "name": "SATX",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20221020",
+      "name": "HEALTH",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20221018",
+      "name": "PLTD",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20210516",
+      "name": "bEarn",
+      "type": "logic-flaw"
+    },
+    {
+      "date": "20210502",
+      "name": "Spartan",
+      "type": "logic-flaw"
+    }
+  ],
+  "business-logic-flaw": [
+    {
+      "date": "20250223",
+      "name": "HegicOptions",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240608",
+      "name": "YYStoken",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240606",
+      "name": "MineSTM",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240604",
+      "name": "NCD",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240531",
+      "name": "Liquiditytokens",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240528",
+      "name": "Tradeonorion",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240528",
+      "name": "EXcommunity",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240526",
+      "name": "NORMIE",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240512",
+      "name": "TGC",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240430",
+      "name": "Yield",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240328",
+      "name": "LavaLending",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240309",
+      "name": "Juice",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240307",
+      "name": "GHT",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240306",
+      "name": "TGBS",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240223",
+      "name": "Zoomer",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240130",
+      "name": "XSIJ",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20240102",
+      "name": "MIC",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231222",
+      "name": "PineProtocol",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231217",
+      "name": "FloorProtocol",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231216",
+      "name": "KEST",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231214",
+      "name": "PHIL",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231213",
+      "name": "HYPR",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231205",
+      "name": "BEARNDAO",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231201",
+      "name": "UnverifiedContr_0x431abb",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231117",
+      "name": "ShibaToken",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231116",
+      "name": "WECO",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231115",
+      "name": "XAI",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231107",
+      "name": "RBalancer",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231101",
+      "name": "SwampFinance",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231028",
+      "name": "AstridProtocol",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231022",
+      "name": "OpenLeverage",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231012",
+      "name": "Platypus",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231008",
+      "name": "ZS",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20231005",
+      "name": "DePayRouter",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230909",
+      "name": "BFCToken",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230908",
+      "name": "APIG",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230902",
+      "name": "DAppSocial",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230821",
+      "name": "EHIVE",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230724",
+      "name": "Palmswap",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230721",
+      "name": "SUT",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230720",
+      "name": "Utopia",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230720",
+      "name": "FFIST",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230718",
+      "name": "APEDAO",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230712",
+      "name": "WGPT",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230627",
+      "name": "UnverifiedContr_9ad32",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230627",
+      "name": "STRAC",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230617",
+      "name": "Pawnfi",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230523",
+      "name": "LFI Token",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230513",
+      "name": "Bitpaidio",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230511",
+      "name": "SellToken01",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230502",
+      "name": "Level",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230427",
+      "name": "Silo finance",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230424",
+      "name": "Axioma",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230325",
+      "name": "- DBW",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230313",
+      "name": "- EulerFinance",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230222",
+      "name": "- DYNA",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230217",
+      "name": "- Starlink",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230217",
+      "name": "- Platypusdefi",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230110",
+      "name": "- BRA",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20230103",
+      "name": "- GDS",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20221213",
+      "name": "- ElasticSwap",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20221207",
+      "name": "- AES (Deflationary token)",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20221129",
+      "name": "- MBC & ZZSH",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20221129",
+      "name": "- SEAMAN",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20221121",
+      "name": "- sDAO",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20221105",
+      "name": "BDEX",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20220902",
+      "name": "Bad Guys by RPF",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20220804",
+      "name": "EtnProduct",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20220802",
+      "name": "Nomad Bridge",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20220801",
+      "name": "Reaper Farm",
+      "type": "business-logic-flaw"
+    },
+    {
+      "date": "20220725",
+      "name": "LPC",
+      "type": "business-logic-flaw"
+    }
+  ],
+  "arbitrary-call": [
+    {
+      "date": "20240814",
+      "name": "YodlRouter",
+      "type": "arbitrary-call"
+    },
+    {
+      "date": "20240531",
+      "name": "MixedSwapRouter",
+      "type": "arbitrary-call"
+    },
+    {
+      "date": "20240420",
+      "name": "Rico",
+      "type": "arbitrary-call"
+    },
+    {
+      "date": "20220928",
+      "name": "MEVBOT",
+      "type": "arbitrary-call"
+    },
+    {
+      "date": "20220326",
+      "name": "Auctus",
+      "type": "arbitrary-call"
+    }
+  ],
+  "precision-loss": [
+    {
+      "date": "20251103",
+      "name": "BalancerV2",
+      "type": "precision-loss"
+    },
+    {
+      "date": "20230617",
+      "name": "MidasCapitalXYZ",
+      "type": "precision-loss"
+    }
+  ],
+  "rug-pull": [
+    {
+      "date": "20250416",
+      "name": "Roar",
+      "type": "rug-pull"
+    },
+    {
+      "date": "20250327",
+      "name": "YziAI",
+      "type": "rug-pull"
+    }
+  ]
+}
